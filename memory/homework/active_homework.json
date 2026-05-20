@@ -1,0 +1,110 @@
+{
+  "status": "ready",
+  "source_path": "C:\\Users\\ozanp\\Downloads\\5.-sinif-indirilebilir-testler-2026-cumlede-anlam-1.pdf",
+  "processed_at": "2026-05-18 23:50:09",
+  "solution": {
+    "title": "CÜMLEDE ANLAM - 01",
+    "source_file": "5.-sinif-indirilebilir-testler-2026-cumlede-anlam-1.pdf",
+    "summary": "Bu ödev, cümlelerde anlam konusunu, özellikle öznel ve nesnel cümleler, sebep-sonuç, amaç-sonuç ve koşul-sonuç ilişkileri üzerine odaklanarak test etmektedir.",
+    "questions": [
+      {
+        "id": "1",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "Doğruluğu ya da yanlışlığı kanıtlanabilen, kişisel görüş içermeyen cümlelere nesnel cümleler denir. Doğruluğu ya da yanlışlığı kanıtlanamayan, kişisel görüş içeren cümlelere ise öznel cümleler denir. \"Bu yıl gittiğim okulda 250 öğrenci var.\" cümlesi nesnel, \"Bu yıl muhteşem bir okula gidiyorum.\" cümlesi özneldir. Çünkü okuldaki öğrenci sayısı kanıtlanabilir ancak bir şeyi muhteşem olarak algılamak kişisel görüşe göre değişebilir.\nBu bilgiye göre aşağıdakilerden hangisi öznel bir cümledir?",
+        "answer": "C) Evcil bazı köpek türleri sadık olmalarının yanında çok da sevimli olur.",
+        "explanation": "\"Çok da sevimli olur\" ifadesi kişisel bir beğeni ve yoruma dayandığı için öznel bir anlatım içerir.",
+        "confidence": "high"
+      },
+      {
+        "id": "2",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "(I) Bal porsuğu her gün yiyecek aramak için 27 kilometreye kadar mesafe katedebilir. (II) Küçük boyutlardaki bazı memeli hayvanlar; yumurtalar, yılanlar, kuşlar, böcekler ve kurbağalarla beslenir. (III) Çoğunlukla etle beslense de bitkilerin meyve, kök ve soğanlarını da yer. (IV) Ayrıca bu tatlı hayvanlar, arı kovanlarındaki larvaları ve balı yemeyi de çok sever.\nBu metinde numaralanmış cümlelerden hangisi kanıtlanabilirlik açısından diğerlerinden farklıdır?",
+        "answer": "D) IV",
+        "explanation": "(IV) numaralı cümlede yer alan \"çok sever\" ifadesi kişisel bir beğeni ve yoruma dayandığı için özneldir. Diğer cümleler ise bilimsel gerçekleri ifade eden nesnel cümlelerdir.",
+        "confidence": "high"
+      },
+      {
+        "id": "3",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "İyi insanların yaşadığı bu şehirde olmak herkese huzur verir.\nAşağıdakilerden hangisi kanıtlanabilirlik açısından bu cümleyle özdeştir?",
+        "answer": "B) Güneşli günlerde mutlu olmamak imkansızdır.",
+        "explanation": "Verilen cümledeki \"iyi insanlar\" ve \"huzur verir\" ifadeleri kişisel görüş içerdiği için özneldir. B seçeneğindeki \"mutlu olmamak imkansızdır\" ifadesi de kişisel bir duygu ve yoruma dayandığı için özneldir ve verilen cümleyle özdeştir.",
+        "confidence": "high"
+      },
+      {
+        "id": "4",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "Kişiden kişiye değişen ve kişinin düşüncelerini, duygularını, beğenilerini ifade eden; doğruluğu ya da yanlışlığı kanıtlanamayan cümlelere öznel cümle denir. Öznel cümleler kişisel görüş içerir.\nBuna göre aşağıdakilerden hangisi kişisel görüş içermez?",
+        "answer": "A) Ateş böceğinin karnı, girintili çıkıntılı minicik yapılardan oluşur.",
+        "explanation": "A seçeneğindeki cümle, bilimsel bir gerçeği ifade eder ve kişisel bir görüş veya yoruma dayanmaz, dolayısıyla nesneldir.",
+        "confidence": "high"
+      },
+      {
+        "id": "5",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "(I) Güneş tutulması sırasında Ay, Güneş'le Dünya arasından geçerek gündüz saatlerinde birkaç dakikalık karanlığa neden olur. (II) Bu sürede gökyüzündeki bazı bulutlar dağılır. (III) 2005 ile 2016 yılları arasında gerçekleşen üç Güneş tutulması sırasında toplanan veriler, bir bulut modelleme yazılımı yardımıyla incelendi. (IV) Tutulmanın bulutlara etkisiyle ilgili ilginç sonuçlara ulaşıldı.\nBu metinde numaralanmış cümlelerin hangisinde altı çizili sözcük cümleden çıkarılırsa cümle nesnel olur?",
+        "answer": "D) IV",
+        "explanation": "(IV) numaralı cümlede altı çizili \"ilginç\" sözcüğü kişisel bir yorum kattığı için cümle özneldir. Bu sözcük çıkarıldığında cümle nesnel bir ifadeye dönüşür.",
+        "confidence": "high"
+      },
+      {
+        "id": "6",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "(I) Eklem bacaklılar şubesinden bir böcek olan orkide peygamberdevesi, yüzlerce peygamberdevesi türünden yalnızca biridir. (II) İri gözlere, üçgen biçimli bir başa, dikenli ön bacaklara ve benzersiz renklere sahiptirler. (III) Güneydoğu Asya'nın tropikal yağmur ormanlarında ve Hindistan'ın bir bölümünde yaşarlar. (IV) Dişileri, erkeklerinden daha büyük olur ve renkleri de daha güzeldir.\nBu parçada numaralanmış cümlelerin hangilerinde öznel anlatım vardır?",
+        "answer": "C) II ve IV",
+        "explanation": "(II) numaralı cümlede \"benzersiz\" ifadesi, (IV) numaralı cümlede ise \"daha güzeldir\" ifadesi kişisel beğeni ve yoruma dayandığı için öznel anlatım içerir.",
+        "confidence": "high"
+      },
+      {
+        "id": "7",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "Herhangi bir eylemin, olayın veya durumun gerçekleşme ya da gerçekleşmeme nedeninin ortaya konulduğu cümlelere sebep-sonuç cümleleri denir.\nBuna göre aşağıdakilerden hangisi sebep-sonuç cümlesi değildir?",
+        "answer": "B) Akşam maçı rahatça izleyebilmek için ödevlerini erken bitirdi.",
+        "explanation": "B seçeneğindeki \"Akşam maçı rahatça izleyebilmek için\" ifadesi bir amaç belirtir, dolayısıyla bu cümle amaç-sonuç cümlesidir, sebep-sonuç cümlesi değildir.",
+        "confidence": "high"
+      },
+      {
+        "id": "8",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "(I) Mikroplastikler artık toprakta, havada, buzullarda ve hatta besinlerimizde bulunduğu için tüm canlılar bunları tüketiyor. (II) Araştırmacılar, nanoplastiklerle yani mikroplastiklerin çok çok daha küçük parçalarıyla ilgili bir çalışma yaptı. (III) Şişelenmiş sularda bulunan nanoplastik parçalarını yeni bir yöntemle saydılar. (IV) 1 litre suda ortalama 240 bin parça belirlediler.\nBu metinde numaralanmış cümlelerin hangisinde bir durum gerekçesiyle birlikte verilmiştir?",
+        "answer": "A) I",
+        "explanation": "(I) numaralı cümlede \"Mikroplastikler artık toprakta, havada, buzullarda ve hatta besinlerimizde bulunduğu için\" ifadesi, canlıların bunları tüketmesinin gerekçesini (nedenini) belirtir.",
+        "confidence": "high"
+      },
+      {
+        "id": "9",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "(I) Altın başak, yaprak biti larvaları yaprağını kemirmeye başladığında onları uzaklaştırmak için bazı uçucu kimyasallar yayar. (II) Sonra da yapraklarının konumunu, diğer bitkilere ışık yansıtabilecek biçimde değiştirir. (III) Böylece hem kendini korur hem de çevresine bilgi verir. (IV) Bu bilgileri yalnızca çevredeki diğer altın başaklar algılar ve bitlere karşı savunmalarını güçlendirir.\nBu metinde numaralanmış cümlelerin hangisinde eylem bir amaca bağlı olarak yapılmıştır?",
+        "answer": "A) I",
+        "explanation": "(I) numaralı cümlede \"onları uzaklaştırmak için\" ifadesi, altın başağın uçucu kimyasallar yaymasının amacını belirtir.",
+        "confidence": "high"
+      },
+      {
+        "id": "10",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "\"İçin” sözcüğü cümlelere hem amaç-sonuç ilişkisi hem de neden-sonuç ilişkisi anlamı katabilir.\nBuna göre aşağıdakilerin hangisinde “için” sözcüğü cümleye amaç anlamı katmamıştır?",
+        "answer": "B) Okuduğumu anlayamadığım için ders çalışmaya biraz ara verdim.",
+        "explanation": "B seçeneğindeki \"Okuduğumu anlayamadığım için\" ifadesi, ders çalışmaya ara vermesinin nedenini (gerekçesini) belirtir, bir amaç değil.",
+        "confidence": "high"
+      },
+      {
+        "id": "11",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "Bir olayın veya durumun gerçekleşme ya da gerçekleşmeme şartının başka bir olaya veya duruma bağlı olduğunu belirten cümlelere koşul-sonuç cümleleri denir.\nBuna göre aşağıdakilerin hangisinde koşul-sonuç ilişkisi yoktur?",
+        "answer": "C) Ev yeterince sıcak olmadığından dolayı fazla oturmadık.",
+        "explanation": "C seçeneğindeki \"Ev yeterince sıcak olmadığından dolayı\" ifadesi, fazla oturmamalarının nedenini (gerekçesini) belirtir, bir koşul değil. Bu bir sebep-sonuç cümlesidir.",
+        "confidence": "high"
+      },
+      {
+        "id": "12",
+        "section": "CÜMLEDE ANLAM - 01",
+        "question": "(I) Organik tarım dünyamız için önemli çünkü canlılık ve sağlıklı bir çevre sıkı sıkıya ilişkilidir. (II) Sağlıklı çevrenin en önemli bileşenlerinden olan su ile toprağın kalitesini korumak ve toprak verimliliğini artırmak, organik tarımın öncelikli amaçlarındandır. (III) Aynı zamanda organik tarımın koşullarına uygun üretim yapılırsa enerji tasarrufu sağlanır. (IV) Enerji tasarrufu da doğal çevreyi korumada oldukça önem taşır.\nBu parçadaki numaralanmış cümlelerin hangisinde bir yargının gerçekleşmesi koşula bağlanmıştır?",
+        "answer": "C) III",
+        "explanation": "(III) numaralı cümlede \"organik tarımın koşullarına uygun üretim yapılırsa\" ifadesi, enerji tasarrufu sağlanmasının bir koşula bağlandığını gösterir.",
+        "confidence": "high"
+      }
+    ],
+    "notes": []
+  },
+  "raw_solution": "{\n  \"title\": \"CÜMLEDE ANLAM - 01\",\n  \"source_file\": \"5.-sinif-indirilebilir-testler-2026-cumlede-anlam-1.pdf\",\n  \"summary\": \"Bu ödev, cümlelerde anlam konusunu, özellikle öznel ve nesnel cümleler, sebep-sonuç, amaç-sonuç ve koşul-sonuç ilişkileri üzerine odaklanarak test etmektedir.\",\n  \"questions\": [\n    {\n      \"id\": \"1\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"Doğruluğu ya da yanlışlığı kanıtlanabilen, kişisel görüş içermeyen cümlelere nesnel cümleler denir. Doğruluğu ya da yanlışlığı kanıtlanamayan, kişisel görüş içeren cümlelere ise öznel cümleler denir. \\\"Bu yıl gittiğim okulda 250 öğrenci var.\\\" cümlesi nesnel, \\\"Bu yıl muhteşem bir okula gidiyorum.\\\" cümlesi özneldir. Çünkü okuldaki öğrenci sayısı kanıtlanabilir ancak bir şeyi muhteşem olarak algılamak kişisel görüşe göre değişebilir.\\nBu bilgiye göre aşağıdakilerden hangisi öznel bir cümledir?\",\n      \"answer\": \"C) Evcil bazı köpek türleri sadık olmalarının yanında çok da sevimli olur.\",\n      \"explanation\": \"\\\"Çok da sevimli olur\\\" ifadesi kişisel bir beğeni ve yoruma dayandığı için öznel bir anlatım içerir.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"2\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"(I) Bal porsuğu her gün yiyecek aramak için 27 kilometreye kadar mesafe katedebilir. (II) Küçük boyutlardaki bazı memeli hayvanlar; yumurtalar, yılanlar, kuşlar, böcekler ve kurbağalarla beslenir. (III) Çoğunlukla etle beslense de bitkilerin meyve, kök ve soğanlarını da yer. (IV) Ayrıca bu tatlı hayvanlar, arı kovanlarındaki larvaları ve balı yemeyi de çok sever.\\nBu metinde numaralanmış cümlelerden hangisi kanıtlanabilirlik açısından diğerlerinden farklıdır?\",\n      \"answer\": \"D) IV\",\n      \"explanation\": \"(IV) numaralı cümlede yer alan \\\"çok sever\\\" ifadesi kişisel bir beğeni ve yoruma dayandığı için özneldir. Diğer cümleler ise bilimsel gerçekleri ifade eden nesnel cümlelerdir.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"3\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"İyi insanların yaşadığı bu şehirde olmak herkese huzur verir.\\nAşağıdakilerden hangisi kanıtlanabilirlik açısından bu cümleyle özdeştir?\",\n      \"answer\": \"B) Güneşli günlerde mutlu olmamak imkansızdır.\",\n      \"explanation\": \"Verilen cümledeki \\\"iyi insanlar\\\" ve \\\"huzur verir\\\" ifadeleri kişisel görüş içerdiği için özneldir. B seçeneğindeki \\\"mutlu olmamak imkansızdır\\\" ifadesi de kişisel bir duygu ve yoruma dayandığı için özneldir ve verilen cümleyle özdeştir.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"4\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"Kişiden kişiye değişen ve kişinin düşüncelerini, duygularını, beğenilerini ifade eden; doğruluğu ya da yanlışlığı kanıtlanamayan cümlelere öznel cümle denir. Öznel cümleler kişisel görüş içerir.\\nBuna göre aşağıdakilerden hangisi kişisel görüş içermez?\",\n      \"answer\": \"A) Ateş böceğinin karnı, girintili çıkıntılı minicik yapılardan oluşur.\",\n      \"explanation\": \"A seçeneğindeki cümle, bilimsel bir gerçeği ifade eder ve kişisel bir görüş veya yoruma dayanmaz, dolayısıyla nesneldir.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"5\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"(I) Güneş tutulması sırasında Ay, Güneş'le Dünya arasından geçerek gündüz saatlerinde birkaç dakikalık karanlığa neden olur. (II) Bu sürede gökyüzündeki bazı bulutlar dağılır. (III) 2005 ile 2016 yılları arasında gerçekleşen üç Güneş tutulması sırasında toplanan veriler, bir bulut modelleme yazılımı yardımıyla incelendi. (IV) Tutulmanın bulutlara etkisiyle ilgili ilginç sonuçlara ulaşıldı.\\nBu metinde numaralanmış cümlelerin hangisinde altı çizili sözcük cümleden çıkarılırsa cümle nesnel olur?\",\n      \"answer\": \"D) IV\",\n      \"explanation\": \"(IV) numaralı cümlede altı çizili \\\"ilginç\\\" sözcüğü kişisel bir yorum kattığı için cümle özneldir. Bu sözcük çıkarıldığında cümle nesnel bir ifadeye dönüşür.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"6\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"(I) Eklem bacaklılar şubesinden bir böcek olan orkide peygamberdevesi, yüzlerce peygamberdevesi türünden yalnızca biridir. (II) İri gözlere, üçgen biçimli bir başa, dikenli ön bacaklara ve benzersiz renklere sahiptirler. (III) Güneydoğu Asya'nın tropikal yağmur ormanlarında ve Hindistan'ın bir bölümünde yaşarlar. (IV) Dişileri, erkeklerinden daha büyük olur ve renkleri de daha güzeldir.\\nBu parçada numaralanmış cümlelerin hangilerinde öznel anlatım vardır?\",\n      \"answer\": \"C) II ve IV\",\n      \"explanation\": \"(II) numaralı cümlede \\\"benzersiz\\\" ifadesi, (IV) numaralı cümlede ise \\\"daha güzeldir\\\" ifadesi kişisel beğeni ve yoruma dayandığı için öznel anlatım içerir.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"7\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"Herhangi bir eylemin, olayın veya durumun gerçekleşme ya da gerçekleşmeme nedeninin ortaya konulduğu cümlelere sebep-sonuç cümleleri denir.\\nBuna göre aşağıdakilerden hangisi sebep-sonuç cümlesi değildir?\",\n      \"answer\": \"B) Akşam maçı rahatça izleyebilmek için ödevlerini erken bitirdi.\",\n      \"explanation\": \"B seçeneğindeki \\\"Akşam maçı rahatça izleyebilmek için\\\" ifadesi bir amaç belirtir, dolayısıyla bu cümle amaç-sonuç cümlesidir, sebep-sonuç cümlesi değildir.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"8\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"(I) Mikroplastikler artık toprakta, havada, buzullarda ve hatta besinlerimizde bulunduğu için tüm canlılar bunları tüketiyor. (II) Araştırmacılar, nanoplastiklerle yani mikroplastiklerin çok çok daha küçük parçalarıyla ilgili bir çalışma yaptı. (III) Şişelenmiş sularda bulunan nanoplastik parçalarını yeni bir yöntemle saydılar. (IV) 1 litre suda ortalama 240 bin parça belirlediler.\\nBu metinde numaralanmış cümlelerin hangisinde bir durum gerekçesiyle birlikte verilmiştir?\",\n      \"answer\": \"A) I\",\n      \"explanation\": \"(I) numaralı cümlede \\\"Mikroplastikler artık toprakta, havada, buzullarda ve hatta besinlerimizde bulunduğu için\\\" ifadesi, canlıların bunları tüketmesinin gerekçesini (nedenini) belirtir.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"9\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"(I) Altın başak, yaprak biti larvaları yaprağını kemirmeye başladığında onları uzaklaştırmak için bazı uçucu kimyasallar yayar. (II) Sonra da yapraklarının konumunu, diğer bitkilere ışık yansıtabilecek biçimde değiştirir. (III) Böylece hem kendini korur hem de çevresine bilgi verir. (IV) Bu bilgileri yalnızca çevredeki diğer altın başaklar algılar ve bitlere karşı savunmalarını güçlendirir.\\nBu metinde numaralanmış cümlelerin hangisinde eylem bir amaca bağlı olarak yapılmıştır?\",\n      \"answer\": \"A) I\",\n      \"explanation\": \"(I) numaralı cümlede \\\"onları uzaklaştırmak için\\\" ifadesi, altın başağın uçucu kimyasallar yaymasının amacını belirtir.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"10\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"\\\"İçin” sözcüğü cümlelere hem amaç-sonuç ilişkisi hem de neden-sonuç ilişkisi anlamı katabilir.\\nBuna göre aşağıdakilerin hangisinde “için” sözcüğü cümleye amaç anlamı katmamıştır?\",\n      \"answer\": \"B) Okuduğumu anlayamadığım için ders çalışmaya biraz ara verdim.\",\n      \"explanation\": \"B seçeneğindeki \\\"Okuduğumu anlayamadığım için\\\" ifadesi, ders çalışmaya ara vermesinin nedenini (gerekçesini) belirtir, bir amaç değil.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"11\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"Bir olayın veya durumun gerçekleşme ya da gerçekleşmeme şartının başka bir olaya veya duruma bağlı olduğunu belirten cümlelere koşul-sonuç cümleleri denir.\\nBuna göre aşağıdakilerin hangisinde koşul-sonuç ilişkisi yoktur?\",\n      \"answer\": \"C) Ev yeterince sıcak olmadığından dolayı fazla oturmadık.\",\n      \"explanation\": \"C seçeneğindeki \\\"Ev yeterince sıcak olmadığından dolayı\\\" ifadesi, fazla oturmamalarının nedenini (gerekçesini) belirtir, bir koşul değil. Bu bir sebep-sonuç cümlesidir.\",\n      \"confidence\": \"high\"\n    },\n    {\n      \"id\": \"12\",\n      \"section\": \"CÜMLEDE ANLAM - 01\",\n      \"question\": \"(I) Organik tarım dünyamız için önemli çünkü canlılık ve sağlıklı bir çevre sıkı sıkıya ilişkilidir. (II) Sağlıklı çevrenin en önemli bileşenlerinden olan su ile toprağın kalitesini korumak ve toprak verimliliğini artırmak, organik tarımın öncelikli amaçlarındandır. (III) Aynı zamanda organik tarımın koşullarına uygun üretim yapılırsa enerji tasarrufu sağlanır. (IV) Enerji tasarrufu da doğal çevreyi korumada oldukça önem taşır.\\nBu parçadaki numaralanmış cümlelerin hangisinde bir yargının gerçekleşmesi koşula bağlanmıştır?\",\n      \"answer\": \"C) III\",\n      \"explanation\": \"(III) numaralı cümlede \\\"organik tarımın koşullarına uygun üretim yapılırsa\\\" ifadesi, enerji tasarrufu sağlanmasının bir koşula bağlandığını gösterir.\",\n      \"confidence\": \"high\"\n    }\n  ],\n  \"notes\": []\n}"
+}
