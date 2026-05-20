@@ -1,4 +1,4 @@
-# J.A.R.V.I.S-A-
+# J.A.R.V.I.S Aİ TÜRKÇE
 JARVİS Aİ orjinali Alp Ünlü tarafından geliştrilen (yapay zeka ile) WARBESH tarafından güncellenilmiştir.
 
 Projenin bilgisayarınızda sorunsuz çalışması için aşağıdaki adımları sırasıyla takip etmeniz yeterlidir.
